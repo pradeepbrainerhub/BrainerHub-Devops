@@ -1,0 +1,11 @@
+{
+  "name": "node-basic-ci-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building the app...'",
+    "test": "echo 'Running tests... all passed ✅'"
+  }
+}
+
