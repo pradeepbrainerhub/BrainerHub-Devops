@@ -1,2 +1,2 @@
-console.log( "Hello testing For CI and CD);
+console.log( "Hello testing);
 
