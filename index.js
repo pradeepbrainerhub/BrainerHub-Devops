@@ -1,2 +1,2 @@
-console.log("Node.js CI/CD demo");
+console.log( "Hello Node.js CI/CD demo");
 
